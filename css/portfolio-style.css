@@ -1,0 +1,21 @@
+#portfolio-section a {
+    display: inline-block;
+    position: relative;
+    margin: 20px 30px 20px 0;
+    width: 100%;
+  
+}
+.project-title {
+    position: absolute;
+    bottom: 7%;
+    background: #4aaaa5;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 10px;
+}
+.container {
+    margin-bottom: 10%;
+}
+.portfolio {
+    width:100%;
+}
